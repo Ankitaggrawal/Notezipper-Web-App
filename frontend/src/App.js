@@ -10,7 +10,7 @@ import RegisterScreen from "./screens/RegisterScreen/RegisterScreen";
 import CreateNote from "./screens/SingleNote/CreateNote";
 import { useState } from "react";
 import ProfileScreen from "./screens/ProfileScreen/ProfileScreen";
-// import "./App.css";
+import "./App.css";
 
 function App() {
   const [search, setSearch] = useState("");
